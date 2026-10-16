@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Karan Tiwari profile header" />
 </p>
 
 <!-- Title -->
